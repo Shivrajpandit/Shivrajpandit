@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! 👋 I'm Kunal Udhar</h1>
+<h1 align="center">Hey there! 👋 I'm Shivraj Pandit</h1>
 <h3 align="center">🚀 A curious Computer Science student </h3>
 
 ---
