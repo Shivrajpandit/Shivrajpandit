@@ -31,8 +31,8 @@
 ---
 
 ### 📬 Connect with Me:
-- 📧 Email: [kudhar892@gmail.com](mailto:kudhar892@gmail.com)
-- 💼 LinkedIn: [Kunal Udhar](https://www.linkedin.com/in/kunal-udhar-99a6ba32b)
+- 📧 Email: [panditshivraj934@gmail.com](mailto:kudhar892@gmail.com)
+- 💼 LinkedIn: [Shivraj Pandit](https://www.linkedin.com/in/kunal-udhar-99a6ba32b)
 
 ---
 
