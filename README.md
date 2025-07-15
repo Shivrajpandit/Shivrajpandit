@@ -23,9 +23,9 @@
 
 ### 📈 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivrajpandit&show_icons=true&theme=merko" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shivrajpandit&show_icons=true&theme=merko" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivrajpandit&theme=merko" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivrajpandit&theme=merko" />
 </p>
 
 ---
