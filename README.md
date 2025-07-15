@@ -23,9 +23,9 @@
 
 ### 📈 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kunalkakasahebudhar&show_icons=true&theme=merko" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shivrajpandit&show_icons=true&theme=merko" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunalkakasahebudhar&theme=merko" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivrajpandit&theme=merko" />
 </p>
 
 ---
@@ -42,7 +42,7 @@
 <!--
 **Shivrajpandit/Shivrajpandit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:<h1 align="center">Hey there! 👋 I'm Samruddhi Rojekar</h1>
+Here are some ideas to get you started:<h1 align="center">Hey there! 👋 I'm Shivraj pandit</h1>
 
 <p align="center">
   🚀 A Passionate Developer | 🧠 Curious Learner | 💜 Flutter Enthusiast
