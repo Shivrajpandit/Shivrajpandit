@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/i-am-vishal-k/i-am-vishal-k/main/assets/banner.png" alt="Header Banner"/>
+<img src="https://raw.githubusercontent.com/kyechan99/capsule-render/master/img/front/header/wave.png" alt="Header Banner"/>
 
 # **Shivraj Pandit**
 ### `Flutter Developer | UI/UX Enthusiast`
