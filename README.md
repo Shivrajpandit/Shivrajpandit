@@ -20,54 +20,7 @@
   </a>
   </div>
 
----
 
-### ✨ Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h4 align="center">Blood Connect 1</h4>
-      <p align="center">
-        <a href="[LINK_TO_YOUR_PROJECT_REPO]">
-          <img src="https://via.placeholder.com/400x250.png?text=Your+Project+Screenshot" alt="Project 1 Preview" width="400" />
-        </a>
-      </p>
-      <p>
-        <strong>Description:</strong> A short but impactful description of your project. Explain the problem it solves and your role in creating it.
-      </p>
-      <p>
-        <strong>Tech Stack:</strong>
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-      </p>
-      <p align="center">
-        <a href="[LINK_TO_YOUR_PROJECT_REPO]"><img src="https://img.shields.io/badge/Source_Code-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
-        </p>
-    </td>
-    <td width="50%">
-      <h4 align="center">Learn Together 2</h4>
-      <p align="center">
-        <a href="[LINK_TO_YOUR_PROJECT_REPO]">
-          <img src="https://via.placeholder.com/400x250.png?text=Your+Project+Screenshot" alt="Project 2 Preview" width="400" />
-        </a>
-      </p>
-      <p>
-        <strong>Description:</strong> A short but impactful description of your project. Explain the problem it solves and your role in creating it.
-      </p>
-      <p>
-        <strong>Tech Stack:</strong>
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-      </p>
-      <p align="center">
-        <a href="[LINK_TO_YOUR_PROJECT_REPO]"><img src="https://img.shields.io/badge/Source_Code-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
-        </p>
-    </td>
-  </tr>
-</table>
-
----
 
 ### 🛠️ My Skill Set
 
